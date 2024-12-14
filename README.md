@@ -1,7 +1,7 @@
-<!--### Hi there 👋, I'm Riya🌼 -->
+<!--### Hi there 👋, I'm Suryansh Omar🌼 -->
 ### Profile :octocat:
-<!--### Hi there , I'm Suryansh Omar <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.-->
-<img src="https://github.com/Riyakumari57/Riyakumari57/blob/main/Profile%20banner.png" alt="banner that says Riya Kumari - Full Stack Web develope">
+<!--### Hi there , I'm Suryansh Omar <img src="https://raw.githubusercontent.com/suryyanshomar44/suryyanshomar44/master/assets/Hi.gif?raw=true" width="30px">.-->
+<img src="https://github.com/suryyanshomar44/suryyanshomar44/blob/main/Profile%20banner.png" alt="banner that says Suryansh Omar - Full Stack Web Developer">
 
 <!--
 **suryyanshomar44/suryyanshomar44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,34 +13,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/riya-kumari-b439911b3/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp;
-- 😄 Pronouns: She/her -->
-<!-- ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1) -->
-
-<!-- <a href=#><img src="contributions.svg"></a> -->
-
- <!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
- - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-  <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-  <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
--->
-
+<!-- - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/suryansh-omar" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="suryansh-omar" height="25" width="25" /></a> &nbsp; -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -69,43 +42,32 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
-<!---<p align="center">  -->
-<!--   Visitor count<br> -->
-<!--   <img src="https://profile-counter.glitch.me/Riyakumari57/count.svg" /> -->
-<!-- </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p>
 
-<a href="https://www.linkedin.com/in/riya-kumari-b439911b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RiyaKumari" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13609858/riya-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="riya-kumari" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/riyakumari57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="riyakumari57" height="30" width="40" /></a>
-<a href="https://instagram.com/riyakumari.__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyakumari.__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCcHYWBHE6zBL8pRf2TVrTg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCCcHYWBHE6zBL8pRf2TVrTg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riyakumari018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riyakumari018" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suryansh-omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suryansh Omar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12345678/suryansh-omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suryansh-omar" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/suryyanshomar44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="suryyanshomar44" height="30" width="40" /></a>
+<a href="https://instagram.com/suryansh.omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryansh.omar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCcHYWBHE6zBL8pRf2TVrTg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Suryansh Omar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suryyanshomar44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suryyanshomar44" height="30" width="40" /></a>
 </p>
 
 <!--
 - ⚡ Fun fact: ...
 -->
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical"> 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyakumari57&show_icons=true&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=suryyanshomar44&show_icons=true&theme=radical"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryyanshomar44&show_icons=true&theme=radical" />
 </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari57&layout=compact&theme=radical"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari57&layout=compact&theme=radical" />
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suryyanshomar44&layout=compact&theme=radical"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryyanshomar44&layout=compact&theme=radical" />
 </a>
 <br>
 <hr>
 <br>
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Riyakumari57&theme=xcode) -->
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=suryyanshomar44&theme=xcode) -->
 <p align ="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari57&theme=black-ice" /> 
-  </p>
-<!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=Riyakumari57
-&label=Profile%20views&color=0e75b6&style=flat" alt="Riyakumari57" /> </p> -->
-   
-<br>
-<hr>
-<br>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Riyakumari57&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryyanshomar44&theme=black-ice" /> 
+</p>
