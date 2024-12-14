@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Suryansh Omar 🌼
+# Hi there 👋, I'm Suryansh Omar
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who enjoys solving problems, building interactive web applications, and writing clean, efficient code. Let's build something amazing together! 🚀
 
