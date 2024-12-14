@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who 
 
 - 🌟 **Skills:** Full Stack Web Development
 - 🔭 Currently open to **Frontend Developer** and **Backend Developer** opportunities.
-- 🌱 Exploring advanced **Frontend Development** with ReactJS and modern JavaScript frameworks.
 - 💬 Ask me about: Web Development, JavaScript, or coding tips.
 
 ---
@@ -29,7 +28,10 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%2300C6FF.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Tools
+### Tools & Platforms
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,16 +62,13 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who 
 <a href="https://www.linkedin.com/in/suryansh-omar-012185191/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://stackoverflow.com/users/12345678/suryansh-omar" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+<a href="https://leetcode.com/Suryansh112/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
-<a href="https://instagram.com/suryansh.omar" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://www.codechef.com/users/pain_1" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
-<a href="https://www.youtube.com/channel/UCCcHYWBHE6zBL8pRf2TVrTg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.hackerrank.com/suryyanshomar44" target="_blank">
+<a href="https://www.hackerrank.com/profile/2019pcecssuryan1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 
