@@ -57,20 +57,21 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who 
 
 ---
 
+## 💻 Competitive Programming
+
+- [LeetCode](https://leetcode.com/Suryansh112/)
+- [CodeChef](https://www.codechef.com/users/pain_1)
+- [HackerRank](https://www.hackerrank.com/profile/2019pcecssuryan1)
+
+---
+
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/suryansh-omar-012185191/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/Suryansh112/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://www.codechef.com/users/pain_1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://www.hackerrank.com/profile/2019pcecssuryan1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
+### 📬 **Get in touch via email:**
+[**suryanshomar44@gmail.com**](mailto:suryanshomar44@gmail.com)
+
+### 🌐 **Professional Networks:**
+- [LinkedIn](https://www.linkedin.com/in/suryansh-omar-012185191/)
 
 ---
 
