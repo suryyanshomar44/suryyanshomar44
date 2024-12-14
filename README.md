@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Suryansh Omar 🌼
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** who enjoys solving problems, building interactive web applications, and writing clean, efficient code. Let's build something amazing together! 🚀
+Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** focused on building interactive, scalable, and efficient web applications. Let's collaborate and create something amazing together! 🚀
 
 ---
 
 ## 👨🏻‍💻 About Me
 
 - 🌟 **Skills:** Full Stack Web Development
-- 🔭 Currently open to **Frontend Developer** opportunities.
-- 🌱 Exploring advanced **Frontend Development** with ReactJS and modern JavaScript frameworks.
-- 💬 Ask me about: Web Development, JavaScript, or coding tips.
+- 🔭 **Currently open to**: Frontend Developer & Backend Developer opportunities
+- 🌱 Exploring advanced **Frontend Development** with **ReactJS** and modern JavaScript frameworks
+- 💬 Ask me about: **Web Development**, **JavaScript**, or **coding tips**
 
 ---
 
